@@ -1,5 +1,8 @@
 .feature-box {
-  background-color: rgba($color-white, 0.8);
+  background-color: rgba(
+    $color-white,
+    0.8
+  ); // background color with opacity of 0.2
   font-size: 1.5rem;
   padding: 3rem;
   text-align: center;
